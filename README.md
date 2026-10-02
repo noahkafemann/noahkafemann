@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=noahkafemann&label=Profilaufrufe&color=0e75b6&style=flat" alt="Profilaufrufe" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noahkafemann&label=SYSTEM+VISITS&color=00f7ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+</p>
   
 
 <!--
