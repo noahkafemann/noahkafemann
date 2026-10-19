@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4200&pause=1200&color=00F7FF&center=true&vCenter=true&width=620&lines=Building+intelligent+systems.;Python+%E2%86%92+Algorithms+%E2%86%92+AI;DREAM.+CODE.+DEPLOY.+REPEAT." alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4200&pause=1200&color=00F7FF&center=true&vCenter=true&width=620&lines=Building+intelligent+systems.;Python+%E2%86%86%92+Algorithms+%E2%86%86%92+AI;DREAM.+CODE.+DEPLOY.+REPEAT." alt="typing" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=noahkafemann&label=PROFILE%20SIGNALS&color=00f7ff&style=flat-square&labelColor=0b1021&abbreviated=false" alt="visits"/>
+<img src="https://komarev.com/ghpvc/?username=noahkafemann&label=VIEWS&color=00f7ff&style=for-the-badge&labelColor=0b1021&abbreviated=true" alt="views" height="48"/>
 
 </div>
 
@@ -39,9 +39,9 @@ Exact share of every language across all public repositories — **439,580 bytes
 
 | Language | Bytes | Share | Footprint |
 |:---|---:|---:|:---|
-| <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white&labelColor=3572A5" height="20" /> | 180,279 | **41.01 %** | ████████████████▍ |
-| <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white&labelColor=e34c26" height="20" /> | 140,770 | **32.02 %** | ████████████▊ |
-| <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178c6" height="20" /> | 72,311 | **16.45 %** | ██████▋ |
+| <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white&labelColor=3572A5" height="20" /> | 180,279 | **41.01 %** | ████████████████████ |
+| <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white&labelColor=e34c26" height="20" /> | 140,770 | **32.02 %** | ████████████████ |
+| <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178c6" height="20" /> | 72,311 | **16.45 %** | ████████ |
 | <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white&labelColor=663399" height="20" /> | 23,048 | **5.24 %** | ██▏ |
 | <img src="https://img.shields.io/badge/PL%2FpgSQL-336790?style=flat-square&logo=postgresql&logoColor=white&labelColor=336790" height="20" /> | 18,761 | **4.27 %** | █▊ |
 | <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black&labelColor=f1e05a" height="20" /> | 4,411 | **1.00 %** | ▍ |
